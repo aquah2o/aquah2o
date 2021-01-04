@@ -2,8 +2,9 @@
 <body>
 <h1>Welcome to my page!</h1>
 <br>
+<br>
 <h3>This is my index page.</h3>
- <br>
+<br>
 
 Why is this so hard?
 
